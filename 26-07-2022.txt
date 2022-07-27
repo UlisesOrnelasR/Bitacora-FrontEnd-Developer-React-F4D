@@ -1,0 +1,3 @@
+LegalFixer
+-Correciones de contenido, en página de ingles
+-Detección de errores, en panel admin de Hero
