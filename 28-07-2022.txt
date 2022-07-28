@@ -1,0 +1,8 @@
+****Panel admin Hero, funcionalidades realizadas en el horario de trabajo****
+-Clients
+--Ya se puede crear nuevo cliente
+
+-Users
+--Ya se pueden actualizar los datos de un usuario en especifico
+--Ya se puede eliminar un usuario
+
