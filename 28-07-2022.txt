@@ -6,3 +6,5 @@
 --Ya se pueden actualizar los datos de un usuario en especifico
 --Ya se puede eliminar un usuario
 
+****Reunion con el cliente smart-life****
+-Se solicitaron modificaciones a la página
