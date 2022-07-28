@@ -1,0 +1,7 @@
+App-hero-admin
+Dashboar
+-Se hicieron dinamicas las funciones
+-se corrigio el formato de hora
+Services
+-Se elimino data estatica
+-Se implemento filtrar por 5 parametros diferentes
