@@ -2,3 +2,7 @@
 -Users
 ----Ahora se puede visualizar la info de cada Herp
 
+Heros
+----Ahora se pueden crear heros
+----Se pueden actualizar los heros
+----Se corrigio campo que estaba mal referenciado
