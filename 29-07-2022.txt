@@ -1,0 +1,4 @@
+**Panel Admin Hero**
+-Users
+----Ahora se puede visualizar la info de cada Herp
+
