@@ -1,3 +1,9 @@
 ***Panel Admin Hero***
 -Clients
 ---Ya se puede ver info de cada cliente
+
+-Heros
+---Ya se pueden filtrar por nombre y apellido
+
+-Users
+---Ya se pueden filtrar por nombre y apellido
