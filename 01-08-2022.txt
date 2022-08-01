@@ -1,0 +1,10 @@
+**Panel admin hero**
+clients
+--Se agregaron los campos faltantes a infoClients, mediante el uso de los parametros de la url, para mostrarlos en el form estaticp
+
+
+**Reunion de Hero presentando los avances**
+--Presente los avances acorde al panel admin
+--Se mostraron todas las funciones implementadas
+--Se demostro la funcionalidad de la mayoria
+--Se corrigio bug, el button back no llevaba a donde deberia.
