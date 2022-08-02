@@ -1,0 +1,5 @@
+**Panel-admin**
+-Services
+---El invoice lleva un avance del 66%
+---El invoice se esta haciendo responsive
+---Faltan algunas correcciones de parte del backend para que funcione correctamente
