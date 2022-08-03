@@ -1,0 +1,5 @@
+**Panel Admin Hero**
+-Payments
+---Se creo primer pestaña de payment con información placeholder de momento, pero con la estructura del diseño original
+---Se creo segunda pestaña de withdraw report
+---Se hizo menu desplegable a partir de estas dos pestañas
