@@ -1,0 +1,5 @@
+Smart-Life landing page
+--Se cambiaron textos por los proporcionados en un documento
+--Se removieron las imagenes viejas
+--Se añadieron nuevas imagenes
+--Se cambiaron titulos
