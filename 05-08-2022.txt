@@ -1,0 +1,3 @@
+**Panel Admin Hero**
+--Se hizo el contenido Payments dinamico porque ya existia una función que solicitaba los payments
+--Ahora se pueden filtrar los payments por Hero, Client, o Status
