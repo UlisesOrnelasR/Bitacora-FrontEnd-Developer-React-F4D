@@ -1,0 +1,6 @@
+**Panel-Admin**
+-Se elimino boton add hero, del page Heroes
+
+**Reunion con Jorge**
+-Se mostro a Jorge los cambios realizados
+-Se le explico la parte de aspirants to hero, etc
