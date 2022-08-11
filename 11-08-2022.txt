@@ -1,0 +1,6 @@
+**Panel Admin Hero**
+-Se hizo dinamica la pagina withdraws reports
+-Ahora se puede filtrar por fecha
+
+**NPM**
+-Se inico la base frontend del proyecto
