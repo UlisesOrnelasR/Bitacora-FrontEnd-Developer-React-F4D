@@ -1,0 +1,3 @@
+**Panel Admin**
+-Se presentaron los avances en la reunion de Hero
+-El invoice ahora se puede imprimir tambien
