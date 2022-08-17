@@ -1,0 +1,6 @@
+*Panel admin*
+-Graficas del dashboard dinamicas
+-En la pestaña aspirantes, se hizo que los links sean dinamicos
+
+*Cami*
+-Se inicio el frontend, ya esta funcionando el navbar, y se creo estructura del proyecto.
