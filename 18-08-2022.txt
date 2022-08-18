@@ -1,0 +1,5 @@
+*CAMI*
+-Se inicio con el Home
+-Se añadieron mixins como botones, textos
+-se añadieron las nuevas fuentes acorde con el diseño
+-se creo componente de SLIDER de imagenes
