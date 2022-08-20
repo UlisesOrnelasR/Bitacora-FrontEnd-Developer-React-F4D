@@ -1,0 +1,8 @@
+*Tradewise*
+-Rediseño de la parte de documentos
+-Se cambia en vez de promesas en axios, use async await 
+-filtrar documentos por nombre
+-filtrar documentos por fechas
+
+*CAMI*
+-componente comercial en proceso, falta version mobile
