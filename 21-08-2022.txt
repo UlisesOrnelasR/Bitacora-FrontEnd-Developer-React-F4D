@@ -1,0 +1,5 @@
+*CAMI*
+-Pagina modalidades terminada
+-pagina contacto terminada
+-Form usando react-hook-form y validando algunos inputs
+-clase global formInput para input de los formularios de CAMI
