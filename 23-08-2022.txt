@@ -1,0 +1,3 @@
+*CAMI*
+-Pagina inicio de sesion terminada
+-Solucionado problema con que el logo CAMI abarcaba mas del espacio y por eso se presionaba home sin intención
