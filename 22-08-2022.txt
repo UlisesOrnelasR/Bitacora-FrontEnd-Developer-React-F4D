@@ -1,0 +1,8 @@
+***CAMI***
+-Page Register finish
+
+**Tradewise 2**
+-Se eliminaron filtros por fecha
+-Se agrego metodo sort para ordenar por fecha los documentos
+-Se agrego metodo sort para ordenar alfabeticamente los documentos
+-Se agrego boton de eliminar cuenta con confirmación usando libreria sweetalert2, con funcion en backend
