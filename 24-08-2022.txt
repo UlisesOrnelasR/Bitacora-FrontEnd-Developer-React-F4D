@@ -1,0 +1,5 @@
+*CAMI*
+Se hicieron las rutas para la pagina cuendo el usuario esta logueado
+
+*Reunión de oleolab*
+-Se tienen que hacer modificaciones en la pagina
