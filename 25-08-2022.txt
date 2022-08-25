@@ -1,0 +1,3 @@
+*CAMI*
+-Login funcionando usando credenciales y url de backend de cami {mail:Mach05@test.com, password:test}
+-El registro tambien ya funciona
