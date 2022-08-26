@@ -1,0 +1,6 @@
+*CAMI*
+-Rutas privadas funcionando, se uso la cookie para verificar al usuario logueado
+-pagina perfil de usuario
+-
+*SMART LIFE*
+-Se añadio pixel de facebook a la web, se añadio en el index dentro de la etiqueta <head> de los archivos build
