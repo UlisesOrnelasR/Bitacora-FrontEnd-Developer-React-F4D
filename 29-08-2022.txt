@@ -1,0 +1,5 @@
+*NPM*
+-Inicio del frontend
+-navbar diseño
+-routes
+-footer en proceso
