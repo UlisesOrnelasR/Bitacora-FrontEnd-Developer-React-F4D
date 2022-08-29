@@ -1,0 +1,3 @@
+*CAMI*
+-Actualizar perfil funciona correctamente
+-Navbar se termino, se agrego componente que cambia, si estas iniciado la sesion muestra el componente Cerrar sesion que es un dropdown con un sub menu
