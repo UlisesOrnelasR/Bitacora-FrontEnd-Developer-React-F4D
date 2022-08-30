@@ -1,0 +1,5 @@
+* CAMI *
+-Junta con el Dr, cliente de proyecto CAMI
+-El cliente decidio que el footer en mobile sea centraddo, ya se realizo la momdifición
+-Cambio de imagenes en el slider del home
+-Se quito navlink de home en el navbar para apegarse al diseño
