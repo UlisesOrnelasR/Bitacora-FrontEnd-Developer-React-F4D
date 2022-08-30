@@ -3,3 +3,9 @@
 -navbar diseño
 -routes
 -footer en proceso
+
+
+*****Horas extras*******
+-Navbar class active works
+-footer terminado
+-Navbar terminado
