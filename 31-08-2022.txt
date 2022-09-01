@@ -1,0 +1,4 @@
+*NPM*
+-Navbar responsive diferente si se encuentre en la pestaña de home
+-Ya funciona el cambio color en los navlink
+-PROBLEMA SOLUCIONADO CON RESPECTO A QUE EL NAVBAR SE MOVIA AL DAR CLICK A UN NAVLINK, en realidad no fallaba.
