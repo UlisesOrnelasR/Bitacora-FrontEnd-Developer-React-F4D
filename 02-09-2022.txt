@@ -1,0 +1,5 @@
+*Jorrnada laboral*
+*NPM*
+-Secciones del home hechas, componente de cards para el home
+-Pagina cursos terminada
+-Responsive las dos
