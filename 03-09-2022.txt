@@ -1,0 +1,7 @@
+*NPM*
+-Page contacto, e ingreso mapa de la ubicación de npm 
+-Page Maetras
+-Se corrigio etiqueta <hr/> para que fuera como en el dieño 
+-Pagina home e cambió el texto generico
+-Page cursos
+-Responsive todo lo que e hizo
