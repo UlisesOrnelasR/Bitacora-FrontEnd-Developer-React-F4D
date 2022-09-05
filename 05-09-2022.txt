@@ -1,0 +1,4 @@
+*NPM*
+-Se ajusto el texto del slider en la pagina acerca de nosotros
+
+-SE CREO COMPNENTE 3D DEL PLANETA, falta añadirle maestras
