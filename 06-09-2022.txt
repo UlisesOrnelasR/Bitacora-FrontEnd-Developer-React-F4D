@@ -1,0 +1,4 @@
+*NPM*
+-Componente 3d mapa lo agregue al pryecto npm, lo desarrolle en un proyecto externo
+-ya funciona el hover en algun sitio del mapa, pero aun no se agregara al proyecto, funcionando se encuentra en la carpeta:
+componentsReact, objetos3d, Object3Dreact-three-fiber
