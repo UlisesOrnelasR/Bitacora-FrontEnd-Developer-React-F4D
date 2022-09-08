@@ -1,0 +1,7 @@
+*NPM*
+-Se añadio componente planeta a la seccion familia npm
+
+*Statera*
+-Se cambio logos, noombres de cpalacio ---> statera, se corrigio problemas relacionados con que no se encontraban las páginas
+-Solucionado navbar mobile, se iban a pagina de cpalacio
+-Redireccionando links
