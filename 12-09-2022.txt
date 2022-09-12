@@ -1,0 +1,3 @@
+*Oleolab*
+-Nueva fuente avondale agregada a los componente Hero
+-Nuevo slider, agregado al home y page puntos de venta
