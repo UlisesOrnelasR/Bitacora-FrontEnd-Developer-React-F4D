@@ -1,0 +1,6 @@
+*CAMI*
+-Trabajando pagina modalidades, el pago de modalidad será como un carrito, tipo proyecto gepesa
+
+*Oleolab*
+-New slider en Home
+-Reunion para verificar los cambios
