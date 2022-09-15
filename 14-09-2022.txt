@@ -1,0 +1,8 @@
+*CAMI*
+-Page modalidades
+
+*NMP*
+-Page Maquinas avance
+
+*Gepesa*
+-Apoye a Rigo en poner codigo en el index HTML
