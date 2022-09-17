@@ -1,0 +1,3 @@
+*NPM*
+-Nuevo componente history routes
+-subrutas en proyecto
