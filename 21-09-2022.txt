@@ -1,0 +1,6 @@
+*NPM*
+-Tuve mi primer preentación con la empresa NPM, obervaron mis avances del frontend del proyecto
+
+*Oleolab*
+-Se hizo italic en la fuente del header(componente Hero)
+-Se añadio sombreado en la parte superior
