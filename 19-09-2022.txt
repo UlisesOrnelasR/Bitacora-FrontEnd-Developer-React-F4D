@@ -1,0 +1,6 @@
+*NPM*
+--card
+--responsive familia npm
+
+*Smart life*
+--SE cambiaron imágenes, porque google las detectaba como contenido x x x.
