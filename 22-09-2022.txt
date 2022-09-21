@@ -1,0 +1,7 @@
+*NPM*
+-Se rehizo la pagina de masster Lyall curso, por cuestiones de alineación de divs
+-Pagina Rocio curso terminada
+-Pagina Gisele curso terminada
+
+*Serixa*
+-Se avanzo, se creo nueva ruta Eucomex, con subrutas
