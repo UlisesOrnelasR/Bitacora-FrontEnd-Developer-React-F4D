@@ -1,0 +1,3 @@
+*Yoo Steam*
+-Funciones en potman funcionando
+-Arreglando funciones en codigo, los parametros estaban pasados incorrectamente en las funciones de axios
