@@ -1,0 +1,5 @@
+*Yoo School*
+--Agregue paginas de modulo, que puede filtrarlos por categoria
+--Reunion con el equipo de yoo school, presente el funcionamiento de la plataforma
+
+continuo trabajando en el transcurso de la noche...
