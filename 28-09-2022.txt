@@ -1,0 +1,3 @@
+*Cami*
+--Page aviso de privacidad
+--Seleccionador, componente a montar
