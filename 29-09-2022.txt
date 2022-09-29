@@ -1,0 +1,3 @@
+*NPM*
+-Actualizando pantallas, se agregos sellos a las imagenes de las maestras
+-Se añadio styled components para solucionar el problema con el tamaño del Card en pagina familia NPM
