@@ -1,0 +1,10 @@
+*Oleolab*
+-Actualizacion de nuevas imagenes
+
+*NPM*
+-Se pierde el contexto en objeto 3d
+-use puente para pasar el contexto
+
+*statera*
+-cambios en calendly
+-ajustes pagina web de wordpress
