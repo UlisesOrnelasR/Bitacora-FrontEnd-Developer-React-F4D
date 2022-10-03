@@ -1,0 +1,5 @@
+*Statera*
+-Solucionando problemas, los link redireccionaban al calendly anterior.
+
+*Oleolab*
+-Añadi las fuentes que pidio el cliente
