@@ -1,0 +1,8 @@
+*Statera*
+-Se activo un plugin del contact form
+
+*Oleolab*
+-Agrego nuevas fuentes
+-Layout product 
+-Visualizacion del pdf en la web
+-Descarga del pdf en mobile
