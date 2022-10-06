@@ -1,0 +1,5 @@
+*Statera*
+-Solucionamos el problema y realizamos las modificaciones pendientes, tuve que rehacer los cambios que se habian hecho en cpalacio.
+
+*NPM*
+-Añadi imagen de la maestra faltante, condicionale para que no se mostarara la red social si no existe. 
