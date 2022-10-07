@@ -1,0 +1,3 @@
+*NPM*
+-Fix navbar
+-Login hecho como modal y no como pagina
