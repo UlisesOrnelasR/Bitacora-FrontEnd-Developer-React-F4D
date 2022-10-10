@@ -1,0 +1,3 @@
+*Oleolab*
+-Terminado el layout como componente
+-Falta migrarlo a proyecto con next js
