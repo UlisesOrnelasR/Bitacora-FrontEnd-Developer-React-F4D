@@ -1,0 +1,5 @@
+*oleolab*
+-termine el layout del producto en next js
+
+*Hero app web*
+-Solcuion a errores en la peticiones
