@@ -1,0 +1,5 @@
+*NPM*
+-Mundo con informacion dinamica de las artistas
+
+*Oleolab*
+-Version en ingles del producto
