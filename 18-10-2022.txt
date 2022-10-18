@@ -1,0 +1,7 @@
+*Oleolab*
+-Subi 2 productos nuevos,funcionando en ingles y en español
+-solucion al problema con descargar el pdf
+
+*CAMI*
+-perfil nuevo diseño aplicado
+-editar perfil nuevo diseño aplicado
