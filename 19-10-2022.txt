@@ -1,0 +1,9 @@
+*Hero*
+-Se arreglo lectura de datos porque la otra compañia mando diferentes las propiedades de los objetos.
+-Se solucionaron algunos filtros en las paginas
+-se soluciono cuando se rompia la app
+
+*cami*
+-busqueda
+-diferentes pantallas
+-componente perfil
