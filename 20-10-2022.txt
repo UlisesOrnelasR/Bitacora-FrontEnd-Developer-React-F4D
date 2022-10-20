@@ -1,0 +1,6 @@
+*CAMI*
+-Se probaron las funciones del perfil del usuario, get_own_exam_results_by_status,get_own_exam_results, etc.
+
+*Statera*
+-Se modifico el blog
+-Se añadio la biografia de gaby en ingles
