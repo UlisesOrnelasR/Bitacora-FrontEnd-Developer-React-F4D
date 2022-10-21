@@ -1,0 +1,4 @@
+*CAMI*
+-Paginacion
+-array ordenado por fecha
+-filtracion por fecha y por nombre 
