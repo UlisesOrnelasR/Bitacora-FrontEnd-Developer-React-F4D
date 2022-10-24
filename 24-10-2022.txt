@@ -1,0 +1,8 @@
+*Oleolab*
+-Termine de sburi los productos
+-Añadi las secciones de otros productos
+
+*NPM*
+-Funciones de login,register y cambiar contraseña
+-Creacion de componente que se podra seleccionar entre cambiar contraseña y facturacion
+-funcion para decodificar el token JWT
