@@ -3,3 +3,8 @@
 -pantalla de facturacion
 -pantalla de cambio de contraseña
 -carruto en el navbar
+
+*Hero App*
+-Create Admin en la pagina web
+-Delete admin
+-Update Admin
