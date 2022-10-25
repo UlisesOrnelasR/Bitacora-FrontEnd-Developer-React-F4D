@@ -1,0 +1,5 @@
+*NPM*
+-Ecommerce card maquinas
+-pantalla de facturacion
+-pantalla de cambio de contraseña
+-carruto en el navbar
