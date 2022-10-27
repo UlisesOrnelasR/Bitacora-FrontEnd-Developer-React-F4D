@@ -1,0 +1,3 @@
+*NPM*
+-Correcciones ortograficas y graficas, en footer, home, etc.
+-Comence diseño de tienda.
