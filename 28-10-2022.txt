@@ -1,0 +1,5 @@
+*NPM*
+-Paginacion en pagina maquinas eccomerce, solicitud de funciones productos productos por categoria
+
+*Oleolab*
+-Productos en carousel home para acceder a ellos
