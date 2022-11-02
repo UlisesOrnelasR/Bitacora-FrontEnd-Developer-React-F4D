@@ -1,0 +1,7 @@
+*NPM*
+-Se arreglaron problemas con lo de agregar un producto al carrito
+-Carrito guardado en local storage
+-nueva lectura de los productos
+-Pagina de carrito
+-Componente cartProduct
+-Nuevas funciones en el CartContext
