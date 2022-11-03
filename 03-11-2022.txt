@@ -1,0 +1,4 @@
+*NPM*
+-Imagenes dinamicas en los productos
+-nuevos sliders en home
+-solucion de sobreponer el submenu de productos
