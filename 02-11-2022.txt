@@ -1,0 +1,3 @@
+*NPM*
+-Carrito completo
+-Slider de paginas de productos
