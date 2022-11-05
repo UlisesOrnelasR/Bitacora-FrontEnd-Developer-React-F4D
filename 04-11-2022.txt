@@ -1,0 +1,4 @@
+*NPM*
+-Nuevos sliders de productos
+-Solucionando problemas en carrito
+-El usuario no puede comprar en diferentes tiendas al mismo tiempo
