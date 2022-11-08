@@ -1,0 +1,5 @@
+*NPM*
+-Cursos como productos 
+-Cambio en la imagen en caso de que no se encuentre
+-Al agregar al carrito aunque este en 0 el numero de productos se agrega 1 
+-Cambios en el footer
