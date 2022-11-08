@@ -1,0 +1,4 @@
+*NPM*
+-Se realizo entrega de la pagina NPM
+-Se soluciono que se perdia la ruta, agregando archivo .htacces al servidor
+-Cambios en algunos nombres
