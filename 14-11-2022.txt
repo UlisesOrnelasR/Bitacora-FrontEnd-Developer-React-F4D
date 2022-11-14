@@ -1,0 +1,6 @@
+*NPM*
+-Obteniendo el token por parametros del link que se envia por email
+-Quitando padding en la pestaña Familia NPM
+
+*CAMI*
+-Modificaciones al footer
