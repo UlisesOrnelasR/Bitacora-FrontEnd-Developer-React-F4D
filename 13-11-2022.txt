@@ -1,0 +1,2 @@
+*NPM*
+-Ya se manda el email para recuperar la contraseña, estaba mal escrita la función.
