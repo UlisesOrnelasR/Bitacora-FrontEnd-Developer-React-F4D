@@ -1,0 +1,6 @@
+*Cami*
+-Entendimiento de los examenes y reactivos 
+-Se cambio el formato de la respuesta
+
+*Statera*
+-Presentacion del diseño, se propone 8 semanas para el desarrollo
