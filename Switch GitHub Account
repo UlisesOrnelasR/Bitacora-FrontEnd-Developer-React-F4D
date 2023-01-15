@@ -1,0 +1,13 @@
+Para cambiar de cuenta de GitHub y poder hacer push, o tener acceso al repo que estamos subiendo los nuevos cambios.
+Seguimos los siguientes pasos.
+
+1.- Cerramos sesión en la cuenta actual de GitHub desde el navegador.
+
+2.- Accedemos al "Administrador de credenciales" de windows el cual se encuentra en esta ruta "Panel de control\Cuentas de usuario\Administrador de credenciales".
+
+3.- Buscamos la credencial git:https://github.com, seleccionamos y presionamos "Quitar".
+
+4.- Podemos acceder a la cuenta que si tiene acceso al repositorio donde haremos push, desde el navegador, para ello iniciamos sesión en https://github.com.
+
+5.- Ya podemos hacer push de nuestros cambios. Nota: al hacer push referenciar a la rama correcta.
+
