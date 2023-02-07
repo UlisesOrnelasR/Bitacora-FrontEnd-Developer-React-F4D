@@ -1,0 +1,9 @@
+1.- Instala Yarn: Ejecuta en tu terminal `npm install -g yarn` para instalar Yarn globalmente en tu sistema.
+
+2.- Elimina el archivo `package-lock.jso`n: Este archivo es generado por npm y no es compatible con Yarn.
+
+3.- Ejecuta el comando `yarn` en la raíz de tu proyecto: Este comando leerá el archivo package.json y descargará todas las dependencias necesarias.
+
+4.-Reemplaza los comandos de npm por los de Yarn: Por ejemplo, en lugar de ejecutar `npm install`, debes ejecutar `yarn install` para instalar las dependencias.
+
+Ahora puedes utilizar Yarn en tu proyecto de React en lugar de npm...
